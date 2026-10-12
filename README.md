@@ -1,2 +1,0 @@
-# PythonAIFirstProject
-des
